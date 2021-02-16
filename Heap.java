@@ -1,3 +1,6 @@
+// Dany Flores
+// Project - ADT Heap
+
 import java.util.Arrays;
 
 public final class Heap <T extends Comparable <? super T>> implements MaxHeapInterface<T>
